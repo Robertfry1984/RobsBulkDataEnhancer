@@ -8,7 +8,8 @@ Select which output column to append the answer to.
 Select a response preference (E.g reply only in 1 or 2 words/ provide a sentance reponse/ provide a detailed explanation)
 
 There is web search functionality selectable (although toggled off by default) whether you prefer LLM knowledge in response or wish to interrogate web for answers.
-The=is github is provided as-is.. Happy for contributors
+This tool is provided as-is.. 
+Happy for contributors
 
 Solely a workflow tool and not designed to be anything else except for something useful for day to day analysis and categorisation.
 
